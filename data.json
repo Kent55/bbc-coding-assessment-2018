@@ -1,0 +1,110 @@
+{
+	"2009-01": {
+		"bbcfour": 324,
+		"bbcnews24": 1075,
+		"bbcone": 940,
+		"bbcthree": 441,
+		"bbctwo": 1040,
+		"cbbc": 898,
+		"cbeebies": 1343
+	},
+	"2009-02": {
+		"bbcfour": 295,
+		"bbcnews24": 958,
+		"bbcone": 904,
+		"bbcthree": 434,
+		"bbctwo": 1038,
+		"cbbc": 793,
+		"cbeebies": 1246
+	},
+	"2009-03": {
+		"bbcfour": 314,
+		"bbcnews24": 1062,
+		"bbcone": 980,
+		"bbcthree": 494,
+		"bbctwo": 1158,
+		"cbbc": 914,
+		"cbeebies": 1461
+	},
+	"2009-04": {
+		"bbcfour": 336,
+		"bbcnews24": 1022,
+		"bbcone": 987,
+		"bbcthree": 488,
+		"bbctwo": 1014,
+		"cbbc": 792,
+		"cbeebies": 1382
+	},
+	"2009-05": {
+		"bbcfour": 332,
+		"bbcnews24": 1073,
+		"bbcone": 1002,
+		"bbcthree": 512,
+		"bbctwo": 1104,
+		"cbbc": 840,
+		"cbeebies": 1368
+	},
+	"2009-06": {
+		"bbcfour": 311,
+		"bbcnews24": 981,
+		"bbcone": 837,
+		"bbcthree": 432,
+		"bbctwo": 1002,
+		"cbbc": 801,
+		"cbeebies": 1265
+	},
+	"2009-07": {
+		"bbcfour": 321,
+		"bbcnews24": 1049,
+		"bbcone": 921,
+		"bbcthree": 489,
+		"bbctwo": 963,
+		"cbbc": 881,
+		"cbeebies": 1340
+	},
+	"2009-08": {
+		"bbcfour": 294,
+		"bbcnews24": 1071,
+		"bbcone": 960,
+		"bbcthree": 506,
+		"bbctwo": 910,
+		"cbbc": 885,
+		"cbeebies": 1312
+	},
+	"2009-09": {
+		"bbcfour": 281,
+		"bbcnews24": 1020,
+		"bbcone": 952,
+		"bbcthree": 502,
+		"bbctwo": 1068,
+		"cbbc": 914,
+		"cbeebies": 1397
+	},
+	"2009-10": {
+		"bbcfour": 319,
+		"bbcnews24": 1058,
+		"bbcone": 985,
+		"bbcthree": 546,
+		"bbctwo": 1184,
+		"cbbc": 1031,
+		"cbeebies": 1448
+	},
+	"2009-11": {
+		"bbcfour": 300,
+		"bbcnews24": 1021,
+		"bbcone": 967,
+		"bbcthree": 474,
+		"bbctwo": 1176,
+		"cbbc": 1009,
+		"cbeebies": 1387
+	},
+	"2009-12": {
+		"bbcfour": 307,
+		"bbcnews24": 1027,
+		"bbcone": 924,
+		"bbcthree": 427,
+		"bbctwo": 1024,
+		"cbbc": 844,
+		"cbeebies": 1300
+	}
+}

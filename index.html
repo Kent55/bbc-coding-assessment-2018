@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="Content-Type" content="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<link href="css/main.css" media="all" rel="stylesheet" type="text/css" />
+<script src="jquery-2.1.1.js"></script>
+<!-- High Charts -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="js/custom.js"></script>
+</head>
+<body>
+<script>
+/**
+ * Load the JSON data, then pass the object to the relevant functions
+ */
+loadData().then(function(data) {
+    document.getElementById("bbcdata").innerHTML = makeTable(data);
+    initFilter(data);
+    makeBarGraph(data);  
+});
+</script>
+
+<!-- Display the BBC logo -->
+<div id="bbcLogo"></div>
+
+<!-- Display the table's help text -->
+<div id="helpText">Click the table headers to sort in ascending or descending order.</div>
+
+<!-- Display the table -->
+<table id="bbcdata"></table>
+
+<!-- Display the bar graph -->
+<div id="barGraph"></div>
+</body>
+</html>
